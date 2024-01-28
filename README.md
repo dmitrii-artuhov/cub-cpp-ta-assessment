@@ -2,7 +2,7 @@
 
 ### Notes
 
-- The implementation works with `-no-rtti` compilation flag (take a look in [CMakeLists.txt](./CMakeLists.txt) file). It relies a lot on how the actual `std::any` works.
+- The implementation works with `-no-rtti` compilation flag (take a look in [CMakeLists.txt](./CMakeLists.txt) file). It relies mostly on how the actual `std::any` works.
 - Some tests were added, see [src/test.cpp](./src/test.cpp).
 
 ### Building
