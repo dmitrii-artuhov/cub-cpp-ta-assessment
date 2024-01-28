@@ -8,6 +8,7 @@
 ### Building
 To build and run the tests do the following:
 
+- `git clone https://github.com/dmitrii-artuhov/cub-cpp-ta-assessment.git && cd cub-cpp-ta-assessment`
 - `mkdir build && cd build`
 - `cmake .. && make`
 
