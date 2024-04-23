@@ -14,8 +14,7 @@ elseif (CMAKE_CXX_COMPILER_ID MATCHES "MSVC")
 endif()
 
 set(ANY_SRCS 
-    src/any.h
-    src/any.cpp
+    src/any.hpp
     src/has-rtti.h
 )
 
